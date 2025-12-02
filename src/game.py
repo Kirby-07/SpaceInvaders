@@ -33,7 +33,7 @@ class Game:
         # Estado del Juego
         self.score = 0
         self.lives = 3
-        self.level = 9
+        self.level = 1
         self.max_levels = 10  # Aumentado de 3 a 10 niveles
         
         # Cargar sonidos
