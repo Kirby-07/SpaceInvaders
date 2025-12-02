@@ -30,9 +30,9 @@ El objetivo principal es demostrar la integración de un **Game Loop** tradicion
 
 | Menú Principal | Gameplay (Visión) | Batalla Boss |
 |:---:|:---:|:---:|
-| *[Inserta aquí tu imagen]* | *[Inserta aquí tu imagen]* | *[Inserta aquí tu imagen]* |
+| ![Menu](screenshots/menu1.jpg) | ![Gameplay](screenshots/gameplay.jpg) | ![Boss](screenshots/boss.jpg) |
 
-> *Nota: Reemplaza estos textos con capturas reales de tu juego para hacerlo más atractivo en GitHub.*
+
 
 ---
 
