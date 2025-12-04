@@ -6,7 +6,7 @@
 **Space Invader** es una reimaginación moderna del clásico juego de arcade, desarrollada en Python con Pygame. Esta versión incluye gráficos mejorados, música dinámica, batallas contra jefes épicos y un innovador sistema de control por visión artificial que te permite pilotar tu nave usando gestos con tu mano.
 
 ### 💻 Requisitos del Sistema
-- **Sistema Operativo:** Windows, macOS o Linux.
+- **Sistema Operativo:** Windows.
 - **Python:** Versión 3.8 o superior.
 - **Cámara Web:** Requerida para el modo de control por visión.
 - **Librerías:** `pygame`, `opencv-python`, `mediapipe`.

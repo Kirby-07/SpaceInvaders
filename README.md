@@ -11,7 +11,7 @@
 
 ## 📋 Descripción
 
-Este proyecto fue desarrollado como parte de la asignatura de **Computación Gráfica** por un estudiante de Ingeniería en Sistemas.
+Este proyecto fue desarrollado como parte de la asignatura de **Computación Gráfica** por Luis Felipe Gonzalez y Juan Felipe Montoya.
 
 El objetivo principal es demostrar la integración de un **Game Loop** tradicional (usando Pygame) con un **pipeline de procesamiento de imágenes** (usando OpenCV y MediaPipe) sin sacrificar el rendimiento. El juego permite al usuario elegir entre el control clásico por teclado o pilotar la nave moviendo su mano frente a la cámara web.
 
@@ -48,8 +48,8 @@ Sigue estos pasos para correr el juego en tu máquina local.
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/TU_USUARIO/space-invader-vision.git
-    cd space-invader-vision
+    git clone https://github.com/Kirby-07/SpaceInvaders.git
+    cd SpaceInvaders
     ```
 
 2.  **Crear un entorno virtual (Opcional pero recomendado):**
@@ -57,11 +57,6 @@ Sigue estos pasos para correr el juego en tu máquina local.
     # Windows
     python -m venv venv
     venv\Scripts\activate
-
-    # macOS/Linux
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
 
 3.  **Instalar dependencias:**
     ```bash
